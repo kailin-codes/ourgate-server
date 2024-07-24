@@ -1,0 +1,20 @@
+[
+      {
+        "text": "Glad you found it helpful! Let me know if you have any questions.",
+        "commentId": "Great explanation of arrhythmias! Very helpful for my studies.",
+        "userId": "info@ted.com",
+        "createdAt": "2023-06-16T13:00:00Z"
+      },
+      {
+        "text": "I'll be covering booster shots in my next video. Stay tuned!",
+        "commentId": "Thanks for the update on COVID vaccines. Do you have any info on booster shots?",
+        "userId": "info@mayoclinic.org",
+        "createdAt": "2023-07-02T18:30:00Z"
+      },
+      {
+        "text": "Thanks for the feedback! Any specific tips you found most useful?",
+        "commentId": "These anatomy tips saved me during my first year! Highly recommended.",
+        "userId": "info@hopkinsmedicine.org",
+        "createdAt": "2023-06-21T11:15:00Z"
+      }
+    ]

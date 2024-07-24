@@ -1,0 +1,20 @@
+[
+      {
+        "text": "Great explanation of arrhythmias! Very helpful for my studies.",
+        "videoId": "Understanding Cardiac Arrhythmias",
+        "userId": "info@hopkinsmedicine.org",
+        "createdAt": "2023-06-16T11:30:00Z"
+      },
+      {
+        "text": "Thanks for the update on COVID vaccines. Do you have any info on booster shots?",
+        "videoId": "COVID-19 Vaccine Update",
+        "userId": "info@ted.com",
+        "createdAt": "2023-07-02T16:45:00Z"
+      },
+      {
+        "text": "These anatomy tips saved me during my first year! Highly recommended.",
+        "videoId": "Medical School Tips: Surviving Anatomy",
+        "userId": "info@mayoclinic.org",
+        "createdAt": "2023-06-21T10:00:00Z"
+      }
+    ]

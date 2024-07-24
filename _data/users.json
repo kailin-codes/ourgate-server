@@ -1,0 +1,92 @@
+[
+      {
+        "channelName": "OurGate",
+        "email": "admin@ourgate.com",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1721202750/ourgateuserimg_s3hdm3.png",
+        "role": "admin",
+        "password": "hashedpassword000",
+        "subscribers": 100000,
+        "videos": 2
+      },
+      {
+        "channelName": "TED Talks",
+        "email": "info@ted.com",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720396669/teduserimg_djrdjf.jpg",
+        "role": "user",
+        "password": "hashedpassword123",
+        "subscribers": 10000,
+        "videos": 3
+      },
+      {
+        "channelName": "Mayo Clinic",
+        "email": "info@mayoclinic.org",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720396671/mayouserimg_qlz0vw.jpg",
+        "role": "user",
+        "password": "hashedpassword456",
+        "subscribers": 5000,
+        "videos": 4
+      },
+      {
+        "channelName": "Johns Hopkins Medicine",
+        "email": "info@hopkinsmedicine.org",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720396669/johnshopkinsuserimg_ohiqqr.jpg",
+        "role": "user",
+        "password": "hashedpassword789",
+        "subscribers": 7500,
+        "videos": 3
+      },
+      {
+        "channelName": "American Heart Association",
+        "email": "info@heart.org",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935610/ahauserimg_nhvnp4.jpg",
+        "role": "user",
+        "password": "hashedpassword101",
+        "subscribers": 8000,
+        "videos": 3
+      },
+      {
+        "channelName": "World Health Organization",
+        "email": "info@who.int",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935609/whouserimg_hfbxgr.jpg",
+        "role": "user",
+        "password": "hashedpassword102",
+        "subscribers": 15000,
+        "videos": 4
+      },
+      {
+        "channelName": "Osmosis",
+        "email": "info@osmosis.org",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935610/osmouserimg_nrmvuk.jpg",
+        "role": "user",
+        "password": "hashedpassword103",
+        "subscribers": 6000,
+        "videos": 3
+      },
+      {
+        "channelName": "American Cancer Society",
+        "email": "info@cancer.org",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935610/acsuserimg_wi6zzz.jpg",
+        "role": "user",
+        "password": "hashedpassword104",
+        "subscribers": 7000,
+        "videos": 3
+      },
+      {
+        "channelName": "Centers for Disease Control and Prevention",
+        "email": "info@cdc.gov",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935616/cdcuserimg_buzipl.jpg",
+        "role": "user",
+        "password": "hashedpassword105",
+        "subscribers": 12000,
+        "videos": 4
+      },
+      {
+        "channelName": "National Institutes of Health",
+        "email": "info@nih.gov",
+        "photoUrl": "https://res.cloudinary.com/di38cp0gv/image/upload/v1720935616/nihuserimg_cp7hae.jpg",
+        "role": "user",
+        "password": "hashedpassword106",
+        "subscribers": 9000,
+        "videos": 3
+      }
+    ]

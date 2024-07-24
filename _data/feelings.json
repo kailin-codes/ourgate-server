@@ -1,0 +1,17 @@
+[
+      {
+        "type": "like",
+        "videoId": "6f7e0d4c8e2a3b1c9d5f6g7h",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e71"
+      },
+      {
+        "type": "like",
+        "videoId": "6f7e0d4c8e2a3b1c9d5f6g7i",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e6f"
+      },
+      {
+        "type": "dislike",
+        "videoId": "6f7e0d4c8e2a3b1c9d5f6g7j",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e70"
+      }
+    ]

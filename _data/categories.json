@@ -1,0 +1,52 @@
+[
+      {
+        "title": "General Health & Wellness",
+        "description": "Videos covering overall health and wellness topics.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e6f"
+      },
+      {
+        "title": "Specialized Medical Procedures",
+        "description": "Content about specific medical procedures and treatments.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e70"
+      },
+      {
+        "title": "Mental Health & Psychology",
+        "description": "Videos related to mental health issues and psychological topics.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e71"
+      },
+      {
+        "title": "Nutrition & Dietetics",
+        "description": "Information about nutrition, diet, and healthy eating habits.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e72"
+      },
+      {
+        "title": "Physical Therapy & Rehabilitation",
+        "description": "Content focusing on physical therapy techniques and rehabilitation processes.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e73"
+      },
+      {
+        "title": "Public Health & Epidemiology",
+        "description": "Videos about public health issues and epidemiological studies.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e74"
+      },
+      {
+        "title": "Pharmacology & Drug Research",
+        "description": "Information on medications, drug development, and pharmacological research.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e75"
+      },
+      {
+        "title": "Alternative & Complementary Medicine",
+        "description": "Content about alternative therapies and complementary medical approaches.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e76"
+      },
+      {
+        "title": "Medical Ethics & Patient Care",
+        "description": "Videos discussing medical ethics and best practices in patient care.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e77"
+      },
+      {
+        "title": "Healthcare Technology & Innovations",
+        "description": "Information about the latest technologies and innovations in healthcare.",
+        "userId": "5f8d0f5b9d3f2a1b3c4d5e78"
+      }
+    ]
